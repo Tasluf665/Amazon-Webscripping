@@ -1,0 +1,16 @@
+.header_h1 {
+  font-size: 5rem;
+  font-family: "Montserrat", cursive;
+}
+
+.header_p {
+  font-family: "Questrial", cursive;
+}
+
+.top_head {
+  padding: 4% 2%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 5%;
+  font-size: 1.2rem;
+}
