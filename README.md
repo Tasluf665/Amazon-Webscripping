@@ -16,8 +16,7 @@ This is the sencond part (frontEnd) of this project. First part is https://githu
 
 ### Always open the backend part first and ensure that backend part always runs on port 3000. And this frontend part runs on 3001. Unless you may see error.
 
-### Watch this video on YouTube
+### Project Preview
 
-[![Watch the video](https://i.imgur.com/drQHcX8.png)](https://youtu.be/On_pHccOYw0)
-
+https://user-images.githubusercontent.com/78264660/159994932-bcc8d146-2167-4980-a70b-00558737f27b.mp4
 
